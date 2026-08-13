@@ -21,9 +21,9 @@ This document records the full build-out of a highly available, auto-scaling web
 
 A companion animated architecture diagram (GIF) accompanies this document, showing the live request flow and the monitoring/alert flow side by side.
 
-![Architecture Diagram](architecture-diagram.gif)
+![Architecture Diagram](cloudbinocular_architecture.gif)
 
----
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. End-to-End Command Runbook
 
